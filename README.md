@@ -3,7 +3,7 @@ This repo is mainly created for who those wanna use ubuntu in there termux andro
 
 
 
-#INSTALLATION
+# INSTALLATION
 ```
 apt-get install git -y
 ```
@@ -12,4 +12,4 @@ git clone https://github.com/pvtvpsfiles/ubuntu-termux && cd ubuntu-termux && ba
 ```
 
 
-#THANKS FOR VISITING..
+##THANKS FOR VISITING..
