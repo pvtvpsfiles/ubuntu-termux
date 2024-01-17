@@ -12,4 +12,4 @@ git clone https://github.com/pvtvpsfiles/ubuntu-termux && cd ubuntu-termux && ba
 ```
 
 
-###THANKS FOR VISITING..
+### THANKS FOR VISITING..
