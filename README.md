@@ -8,7 +8,7 @@ This repo is mainly created for who those wanna use ubuntu in there termux andro
 apt-get install git -y
 ```
 ```
-git clone https://github.com/pvtvpsfiles/ubuntu-termux && cd ubuntu-termux && bash setup.sh
+git clone https://github.com/pvtvpsfiles/ubuntu-termux && cd ubuntu-termux && chmod +x setup.sh && chmod +x ubuntu.sh && bash setup.sh
 ```
 
 
