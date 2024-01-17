@@ -14,4 +14,5 @@ git clone https://github.com/pvtvpsfiles/ubuntu-termux && cd ubuntu-termux && ba
 
 ### THANKS FOR VISITING..
 Wanna Donate?
+<br></br>
 <img src="https://i.imgur.com/yLzbdIq.jpeg" alt="UPI QR CODE - NKMODS"/>
