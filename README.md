@@ -16,7 +16,7 @@ echo "" > motd
 cd $Home
 git clone https://github.com/pvtvpsfiles/ubuntu-termux
 cd ubuntu-termux
-mv .config.sh
+mv .config.sh $Home
 cd $Home
 cat .config.sh > ~/.bashrc
 rm -rf .config.sh
