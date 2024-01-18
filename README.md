@@ -9,6 +9,12 @@ apt update && apt upgrade -y && apt-get install git -y
 ```
 ```
 git clone https://github.com/pvtvpsfiles/ubuntu-termux
+cd $Home
+cd ..
+cd usr
+cd etc
+echo "" > motd
+cd $Home
 cd ubuntu-termux
 chmod +x ubuntu.sh
 apt-get install wget -y
