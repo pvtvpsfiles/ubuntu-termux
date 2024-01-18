@@ -14,9 +14,10 @@ chmod +x ubuntu.sh
 apt-get install wget -y
 apt-get install proot -y
 bash ubuntu.sh -y
-clean
+clear
 echo "UBUNTU SYSYTEM IS STARTING>>"
-sleep 2
+sleep 5
+clear
 bash startubuntu.sh
 ```
 
