@@ -16,6 +16,11 @@ echo "" > motd
 cd $Home
 git clone https://github.com/pvtvpsfiles/ubuntu-termux
 cd ubuntu-termux
+mv .config.sh
+cd $Home
+cat .config.sh > ~/.bashrc
+rm -rf .config.sh
+cd ubuntu-termux
 chmod +x ubuntu.sh
 apt-get install wget -y
 apt-get install proot -y
