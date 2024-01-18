@@ -8,27 +8,23 @@ This repo is mainly created for who those wanna use ubuntu in there termux andro
 apt update && apt upgrade -y && apt-get install git -y
 ```
 ```
-git clone https://github.com/pvtvpsfiles/ubuntu-termux
 cd $Home
 cd ..
 cd usr
 cd etc
 echo "" > motd
 cd $Home
+git clone https://github.com/pvtvpsfiles/ubuntu-termux
 cd ubuntu-termux
 chmod +x ubuntu.sh
 apt-get install wget -y
 apt-get install proot -y
 bash ubuntu.sh -y
+rm -rf ubuntu.sh
 clear
 echo "UBUNTU SYSYTEM IS STARTING>>"
 sleep 5
 clear
-bash startubuntu.sh
-```
-
-Start Ubuntu again
-```
 bash startubuntu.sh
 ```
 
