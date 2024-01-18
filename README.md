@@ -33,6 +33,12 @@ bash startubuntu.sh
 ```
 
 
+
+<a href="https://github.com/pvtvpsfiles/u-in-t-wp-bot-d3ploy-nkmods-lyfe-whatsapp-bot-md?tab=readme-ov-file#u-in-t-wp-bot-d3ploy-nkmods-lyfe-whatsapp-bot-md">Deploy Lyfe WhatsApp Bot MD</a>
+
+
+
+
 ### THANKS FOR VISITING..
 Wanna Donate?
 <br></br>
