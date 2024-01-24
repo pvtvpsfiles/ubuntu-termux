@@ -3,6 +3,10 @@ This repo is mainly created for who those wanna use ubuntu in there termux andro
 
 
 
+# Termux
+<a href="https://f-droid.org/repo/com.termux_118.apk">DOWNLOAD TERMUX (NO ERROR)</a>
+
+
 # INSTALLATION
 ```
 apt update && apt upgrade -y && apt-get install git -y
