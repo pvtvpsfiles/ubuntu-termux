@@ -38,7 +38,8 @@ bash startubuntu.sh
 
 
 
-<a href="https://github.com/pvtvpsfiles/u-in-t-wp-bot-d3ploy-nkmods-lyfe-whatsapp-bot-md?tab=readme-ov-file#u-in-t-wp-bot-d3ploy-nkmods-lyfe-whatsapp-bot-md">Deploy Lyfe WhatsApp Bot MD</a>
+<a href="https://github.com/pvtvpsfiles/u-in-t-wp-bot-d3ploy-nkmods-lyfe-whatsapp-bot-md?tab=readme-ov-file#u-in-t-wp-bot-d3ploy-nkmods-lyfe-whatsapp-bot-md">Deploy Lyfe's Levanter MD</a>
+<a href="https://github.com/pvtvpsfiles/u-in-t-wp-bot-d3ploy-nkmods-hermit-md?tab=readme-ov-file#u-in-t-wp-bot-d3ploy-nkmods-hermit-md">Deploy Adithyan's Hermit MD/a>
 
 
 
