@@ -36,10 +36,16 @@ clear
 bash startubuntu.sh
 ```
 
-
-
+<br>
+</br>
+<a href="https://qr-hazel-alpha.vercel.app/session">Lyfe's : SCAN/PAIR LOGIN</a>
+<br></br>
 <a href="https://github.com/pvtvpsfiles/u-in-t-wp-bot-d3ploy-nkmods-lyfe-whatsapp-bot-md?tab=readme-ov-file#u-in-t-wp-bot-d3ploy-nkmods-lyfe-whatsapp-bot-md">Deploy Lyfe's Levanter MD</a>
 <br></br>
+<br>
+</br>
+<a href="https://qr-hazel-alpha.vercel.app/session">Adithyan's : SCAN/PAIR LOGIN</a>
+<br><br>
 <a href="https://github.com/pvtvpsfiles/u-in-t-wp-bot-d3ploy-nkmods-hermit-md?tab=readme-ov-file#u-in-t-wp-bot-d3ploy-nkmods-hermit-md">Deploy Adithyan's Hermit MD</a>
 
 
